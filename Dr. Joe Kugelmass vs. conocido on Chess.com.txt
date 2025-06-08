@@ -1,0 +1,17 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.06.07"]
+[Round "-"]
+[White "josephkugelmass"]
+[Black "culocido"]
+[Result "1-0"]
+[WhiteElo "1370"]
+[BlackElo "1182"]
+[TimeControl "600"]
+[EndTime "3:20:37 GMT+0000"]
+[Termination "josephkugelmass won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. b3 Nxc4 7. bxc4 Nxd5 8.
+cxd5 Qxg5 9. O-O Bh3 10. Qf3 Bf5 11. d4 Qf6 12. Bb2 e4 13. Qf4 O-O-O 14. Nc3 Bb4
+15. Nxe4 Bxe4 16. Qxe4 Rhe8 17. Qg4+ Kb8 18. c4 g6 19. c5 h5 20. Qd1 Rxd5 21.
+Qa4 Bd2 22. Qxe8+ 1-0
